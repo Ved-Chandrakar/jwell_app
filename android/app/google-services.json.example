@@ -1,0 +1,28 @@
+// Placeholder file for google-services.json
+// 
+// To use this app, you need to:
+// 1. Create a Firebase project at https://console.firebase.google.com/
+// 2. Add an Android app to your Firebase project
+// 3. Download the google-services.json file
+// 4. Replace this file with the downloaded google-services.json
+//
+// The file should look like:
+// {
+//   "project_info": {
+//     "project_number": "...",
+//     "project_id": "...",
+//     "storage_bucket": "..."
+//   },
+//   "client": [
+//     {
+//       "client_info": {
+//         "mobilesdk_app_id": "...",
+//         "android_client_info": {
+//           "package_name": "com.example.jewel_order_app"
+//         }
+//       },
+//       ...
+//     }
+//   ],
+//   ...
+// }
